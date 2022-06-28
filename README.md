@@ -3,4 +3,4 @@
 
 - USE:
 
-;wipe (new server's name; leave empty if you want it to stay the same)
+;wipe (new server's name; optional)
